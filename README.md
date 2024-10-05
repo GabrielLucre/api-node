@@ -1,2 +1,2 @@
 # api-node
-API CRUD node.js da playlist do canal "Yuri Marcon"
+Projeto para aprender mais sobre node.js, APIs e banco de dados
